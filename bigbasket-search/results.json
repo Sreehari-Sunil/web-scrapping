@@ -1,0 +1,12 @@
+{'result': [
+        {'Keyword': 'hair fall shampoo', 'Positions': {'Loreal': 100, 'Dove': 1, 'Tresemme': 31
+            }
+        },
+        {'Keyword': 'conditioner', 'Positions': {'Loreal': None, 'Dove': 4, 'Tresemme': 2
+            }
+        },
+        {'Keyword': 'shampoo', 'Positions': {'Loreal': None, 'Dove': 1, 'Tresemme': 2
+            }
+        }
+    ]
+}
